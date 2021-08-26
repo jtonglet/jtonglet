@@ -3,13 +3,13 @@ Hi, I am Jonathan Tonglet and I am a Master student in Data Science at KULeuven.
 I am interested in research and projets at the intersection of Data Science and Social Sciences, 
 including : 
 
-             💸 Fraud detection
-             🌍 Social network analytics
-             📈 Time Series analysis
+             💸 Fraud Detection
+             🌍 Social Network Analytics
+             📈 Time Series Analysis
              💬 Natural Language Processing
             
 
-I'm currently learning more on recommender systems and churn prediction.
+I'm currently doing an exchange at Politecnico di Milano where I study Deep Learning, Recommender Systems and Multiagent Systems.
 
 
 <!---
