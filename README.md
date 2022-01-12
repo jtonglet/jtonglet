@@ -21,7 +21,6 @@ including :
 
 # 📫 How to reach me?
 - [linkedin](https://www.linkedin.com/in/jonathan-tonglet/)
-- [gmail](jonathan.tonglet@gmail.com) 
 - [Twitter](https://twitter.com/TongletJ)
 
 <!---
