@@ -1,18 +1,26 @@
-[![general badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg)]
+# Hi, I'm Jonathan 👋
 
-Hi, I am Jonathan Tonglet and I am a Master student in Data Science at KULeuven. 
+I am a Master student in Data Science at KULeuven, currently doing an Erasmus exchange at Politecnico di Milano. 
 
-I am interested in research and projets at the intersection of Data Science and Social Sciences, 
+I am interested in research projets at the intersection of Data Science and Social Sciences, 
 including : 
 
              💸 Fraud Detection
              🌍 Social Network Analytics
-             📈 Time Series Analysis
+             👥 Multiagent Systems 
              💬 Natural Language Processing
             
+# My journey 
 
-I'm currently doing an exchange at Politecnico di Milano where I study Deep Learning, Recommender Systems and Multiagent Systems.
+- 📚 Started my master in September 2020
+- 📈 Soon after, I discovered the beauty of SARIMA models for [time series](https://github.com/jtonglet/Time-Series-Analysis) 
+- 📺 During my Erasmus, I took part in the Polimi RecSys challenge and built a TV show recommender system
+- 🚀 I learned to use TensorFlow and Keras for Image classification and Time Series Forecasting
+- 🐤For my thesis, I am trying to correct demographic biases from Twitter user samples, in partnership with Statistics Flanders
 
+
+# 📫 How to reach me?
+- [linkedin](https://www.linkedin.com/in/jonathan-tonglet/)
 
 <!---
 jtonglet/jtonglet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
