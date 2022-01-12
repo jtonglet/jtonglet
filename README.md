@@ -1,3 +1,5 @@
+[![general badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg)]
+
 Hi, I am Jonathan Tonglet and I am a Master student in Data Science at KULeuven. 
 
 I am interested in research and projets at the intersection of Data Science and Social Sciences, 
