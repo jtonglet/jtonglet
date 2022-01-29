@@ -14,8 +14,8 @@ including :
 
 - 📚 Started my master in September 2020
 - 📈 Soon after, I discovered the beauty of SARIMA models for [time series](https://github.com/jtonglet/Time-Series-Analysis)  analysis
-- 📺 During my Erasmus, I took part in the Polimi RecSys challenge and built a TV show recommender system
-- 🚀 I learned how to use TensorFlow and Keras for Image classification and Time Series Forecasting
+- 📺 During my Erasmus, I took part in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
+- 🚀 I learned how to use TensorFlow and Keras for [Image classification](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification) and Time Series Forecasting
 - 🐤For my thesis, I am correcting  the demographic selection bias of Twitter user samples, in partnership with Statistics Flanders
 
 
