@@ -20,7 +20,7 @@ including :
 
 
 # 📫 How to reach me?
-- [linkedin](https://www.linkedin.com/in/jonathan-tonglet/)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-tonglet/)
 - [Twitter](https://twitter.com/TongletJ)
 
 <!---
