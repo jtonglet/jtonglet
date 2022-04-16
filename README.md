@@ -1,14 +1,15 @@
 # Hi, I'm Jonathan 👋
 
-I am a Master student in Data Science at KULeuven, currently doing an Erasmus exchange at Politecnico di Milano. 
+I am a Master student at KULeuven, majoring in Data Science.
 
-I am interested in research projets at the intersection of Data Science and Social Sciences, 
+I am interested in conducting research at the intersection of Data Science and Social Sciences, 
 including : 
 
-             💸 Fraud Detection
              🌍 Social Network Analytics
-             👥 Multiagent Systems 
              💬 Natural Language Processing
+             👥 Multiagent Systems 
+             💸 Fraud Detection
+             
             
 # My journey 
 
