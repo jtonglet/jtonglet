@@ -25,7 +25,6 @@ including :
 # 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/jonathan-tonglet/)
 - [Twitter](https://twitter.com/TongletJ)
-- [Mail](jonathan.tonglet@gmail.com)
 
 <!---
 jtonglet/jtonglet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
