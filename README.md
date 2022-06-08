@@ -15,7 +15,7 @@ including :
 
 - 📚 Started my master's degree in September 2020
 - 📈 Soon after, I discovered the beauty of SARIMA models for [time series](https://github.com/jtonglet/Time-Series-Analysis)  analysis
-- 🍕  I went on Erasmus exchange to Politecnico di Milano, where I took courses on Deep Learning, [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data Quality, and Recommender Systems
+- 🍕  I went on Erasmus exchange to Politecnico di Milano, where I took courses on Deep Learning, [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data and Information Quality, and Recommender Systems
 - 📺  I participated in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
 - 🚀 I learned how to use TensorFlow and Keras for [Image Classification](https://github.com/jtonglet/Deep-Learning-Homework) and Time Series Forecasting
 - 🐤 For my thesis, I am [predicting demographic attributes and correcting biases](https://github.com/jtonglet/Twitter-Selection-Bias) in Twitter user samples, in partnership with Statistics Flanders
