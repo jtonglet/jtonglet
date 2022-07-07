@@ -13,12 +13,12 @@ including :
             
 # My journey 
 
-- 📚 Started my master's degree in September 2020
+- 📚 Started my Master's degree in September 2020
 - 📈 Soon after, I discovered the beauty of SARIMA models for [time series](https://github.com/jtonglet/Time-Series-Analysis)  analysis
-- 🍕  I went on Erasmus exchange to Politecnico di Milano, where I took courses on Deep Learning, [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data and Information Quality, and Recommender Systems
-- 📺  I participated in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
-- 🚀 I learned how to use TensorFlow for [Image Classification](https://github.com/jtonglet/Deep-Learning-Homework) and Time Series Forecasting
+- 🍕 I went on Erasmus exchange to Politecnico di Milano, where I took courses on [Deep Learning](https://github.com/jtonglet/Deep-Learning-Homework), [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data and Information Quality, and Recommender Systems
+- 📺 I participated in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
 - 🐤 For my thesis, I  [predicted demographic attributes and corrected biases](https://github.com/jtonglet/Twitter-Selection-Bias) in Twitter user samples, in partnership with Statistics Flanders
+- 🎓 I graduated Summa Cum Laude in June 2022 with an average of 85.84% and the LIRIS award for the best Master's thesis
 - 🤖 In 2022-2023, I will pursue an advanced Master's degree in Artificial Intelligence at KULeuven
 
 
