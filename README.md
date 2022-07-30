@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I am a Master student at KULeuven, majoring in Data Science.
+I recently graduated from KULeuven, majoring in Data Science. I will pursue an advanced Master's degree in AI next academic year, with a specialization in Speech and Language Processing.
 
 I am interested in conducting research at the intersection of Data Science and Social Sciences, 
 including : 
