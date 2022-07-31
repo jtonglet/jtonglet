@@ -2,7 +2,7 @@
 
 I recently graduated from KULeuven, majoring in Data Science. I will pursue an advanced Master's degree in AI next academic year, with a specialization in Speech and Language Technologies.
 
-I am interested in conducting research at the intersection of Data Science and Social Sciences, 
+I am interested in conducting research at the intersection of Machine Learning and Social Sciences, 
 including : 
 
              💬 Natural Language Processing
