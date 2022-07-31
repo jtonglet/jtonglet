@@ -2,12 +2,13 @@
 
 I recently graduated from KULeuven, majoring in Data Science. I will pursue an advanced Master's degree in AI next academic year, with a specialization in Speech and Language Technologies.
 
-I am interested in conducting research at the intersection of Machine Learning and Social Sciences, 
+I am interested in conducting NLP research for high impact societal challenges, 
 including : 
 
-             💬 Natural Language Processing
-             🌍 Social Networks Analytics and Knowledge Graphs 
-             👥 Multiagent Systems 
+             💬 Natural Language Understanding and Generation
+             🔍 Information Retrieval
+             🍲 Multimodal Learning 
+             👥 Computational Social Science
              
             
 # My journey 
