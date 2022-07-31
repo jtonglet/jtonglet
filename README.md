@@ -6,7 +6,7 @@ I am interested in conducting research at the intersection of Data Science and S
 including : 
 
              💬 Natural Language Processing
-             🌍 Knowledge Graphs 
+             🌍 Social Networks Analytics and Knowledge Graphs 
              👥 Multiagent Systems 
              
             
