@@ -22,6 +22,8 @@ including :
 - 🤖 In 2022-2023, I will pursue an advanced Master's degree in Artificial Intelligence at KULeuven
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet)](https://github.com/anuraghazra/github-readme-stats)
+
 # 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/jonathan-tonglet/)
 - [Twitter](https://twitter.com/TongletJ)
