@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I recently graduated from KULeuven, majoring in Data Science. I will pursue an advanced Master's degree in AI next academic year, with a specialization in Speech and Language Technologies.
+I recently graduated from KULeuven, majoring in Data Science. I am now pursuing an advanced Master's degree in AI, with a specialization in Speech and Language Technologies.
 
 I am interested in conducting NLP research, 
 including : 
@@ -19,7 +19,7 @@ including :
 - 📺 I participated in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
 - 🐤 For my thesis, I  [predicted demographic attributes and corrected biases](https://github.com/jtonglet/Twitter-Selection-Bias) in Twitter user samples, in partnership with Statistics Flanders
 - 🎓 I graduated Summa Cum Laude in June 2022 with an average of 85.84% and the LIRIS award for the best Master's thesis
-- 🤖 In 2022-2023, I will pursue an advanced Master's degree in Artificial Intelligence at KULeuven
+- 🤖 In 2022-2023, I am pursuing an advanced Master's degree in Artificial Intelligence at KULeuven
 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet&exclude_repo=belgian-MP-tweets&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
