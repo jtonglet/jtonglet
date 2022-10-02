@@ -2,7 +2,7 @@
 
 I recently graduated from KULeuven, majoring in Data Science. I am now pursuing an advanced Master's degree in AI, with a specialization in Speech and Language Technologies.
 
-I am interested in conducting NLP research, 
+I am interested in NLP research, 
 including : 
 
              💬 Natural Language Understanding and Generation
