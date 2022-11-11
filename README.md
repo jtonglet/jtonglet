@@ -7,7 +7,7 @@ including :
 
              💬 Natural Language Understanding and Generation
              🔍 Information Retrieval
-             🍲 Multimodal Learning 
+             🍲 Multimodal and Multilingual Learning 
              👥 Computational Social Science
  
  
