@@ -22,7 +22,7 @@ My research interests include :
 - 💹 I am writing a thesis on in-context learning for [multimodal financial numerical reasoning](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet&exclude_repo=belgian-MP-tweets&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet&exclude_repo=belgian-MP-tweets&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/jonathan-tonglet/)
