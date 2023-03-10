@@ -5,8 +5,8 @@ I am studying Artificial Intelligence at  KULeuven, with a specialization in Spe
 My research interests include : 
 
              💬 Natural Language Understanding and Generation
-             🔍 Information Retrieval
-             🍲 Multimodal and Multilingual Learning 
+             🔍 Information Retrieval and Fact Checking
+             🍲 Multimodal Learning 
              👥 Computational Social Science
  
  
@@ -20,6 +20,7 @@ My research interests include :
 - 🎓 I graduated Summa Cum Laude in June 2022 with an average of 85.84% and the LIRIS award for the best Master's thesis
 - 🤖 In 2022-2023, I am pursuing an advanced Master's degree in Artificial Intelligence at KULeuven
 - 💹 I am writing a thesis on in-context learning for [multimodal financial numerical reasoning](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
+- 👨‍🔬 In September 2023, I will join the ELLIS PhD program under the supervision of Prof. Iryna Gurevych at TU Darmstadt
 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet&exclude_repo=belgian-MP-tweets&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
