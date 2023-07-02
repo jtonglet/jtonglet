@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I am studying Artificial Intelligence at  KULeuven, with a specialization in Speech and Language Technologies.
+I am studying Artificial Intelligence at KULeuven, with a specialization in Speech and Language Technologies. In September 2023, I will start a PhD at TU Darmstadt and KU Leuven on Multimodal Fact Checking.
 
 My research interests include : 
 
@@ -19,11 +19,9 @@ My research interests include :
 - 🐤 For my thesis, I  [predicted demographic attributes and corrected biases](https://github.com/jtonglet/Twitter-Selection-Bias) in Twitter user samples, in partnership with Statistics Flanders
 - 🎓 I graduated Summa Cum Laude in June 2022 with an average of 85.84% and the LIRIS award for the best Master's thesis
 - 🤖 In 2022-2023, I am pursuing an advanced Master's degree in Artificial Intelligence at KULeuven
-- 💹 I am writing a thesis on in-context learning for [multimodal financial numerical reasoning](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
-- 👨‍🔬 In September 2023, I will join the ELLIS PhD program under the supervision of Prof. Iryna Gurevych at TU Darmstadt
+- 💹 I am writing a thesis on in-context learning for [HybridQA](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
+- 👨‍🔬 In September 2023, I will join the ELLIS PhD program under the supervision of Prof. Iryna Gurevych at TU Darmstadt and Prof. Sien Moens at KU Leuven
 
-
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtonglet&exclude_repo=belgian-MP-tweets&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/jonathan-tonglet/)
