@@ -12,7 +12,6 @@ My research interests include :
  
             
 # My journey 
-- 🍕 I went on Erasmus exchange to Politecnico di Milano, where I took courses on [Deep Learning](https://github.com/jtonglet/Deep-Learning-Homework), [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data and Information Quality, and Recommender Systems
 - 🤖 In 2022-2023, I pursuied an advanced Master's degree in Artificial Intelligence at KULeuven
 - 💹 I wrote a thesis on in-context learning for [HybridQA](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
 - 🎓 I graduated Summa Cum Laude with the Congratulations of the Board of Examiners in June 2023 with an average of 89.82%
