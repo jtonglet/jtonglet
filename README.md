@@ -4,22 +4,18 @@ I am studying Artificial Intelligence at KULeuven, with a specialization in Spee
 
 My research interests include : 
 
-             💬 Natural Language Understanding and Generation
-             🔍 Information Retrieval and Fact Checking
+             💬 Natural Language Understanding
+             🔍 Fact Checking & Information Retrieval
              🍲 Multimodal Learning 
              👥 Computational Social Science
  
  
             
 # My journey 
-
-- 📚 Started my Master's degree in Data Science at KULeuven in September 2020
 - 🍕 I went on Erasmus exchange to Politecnico di Milano, where I took courses on [Deep Learning](https://github.com/jtonglet/Deep-Learning-Homework), [Multiagent Systems](https://github.com/jtonglet/Nash_Q_Learning), Data and Information Quality, and Recommender Systems
-- 📺 I participated in the Polimi RecSys challenge and built a [TV show recommender system](https://github.com/jtonglet/Recommender-Systems-Polimi)
-- 🐤 For my thesis, I  [predicted demographic attributes and corrected biases](https://github.com/jtonglet/Twitter-Selection-Bias) in Twitter user samples, in partnership with Statistics Flanders
-- 🎓 I graduated Summa Cum Laude in June 2022 with an average of 85.84% and the LIRIS award for the best Master's thesis
-- 🤖 In 2022-2023, I am pursuing an advanced Master's degree in Artificial Intelligence at KULeuven
-- 💹 I am writing a thesis on in-context learning for [HybridQA](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
+- 🤖 In 2022-2023, I pursuied an advanced Master's degree in Artificial Intelligence at KULeuven
+- 💹 I wrote a thesis on in-context learning for [HybridQA](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
+- 🎓 I graduated Summa Cum Laude with the Congratulations of the Board of Examiners in June 2023 with an average of 89.82%
 - 👨‍🔬 In September 2023, I will join the ELLIS PhD program under the supervision of Prof. Iryna Gurevych at TU Darmstadt and Prof. Sien Moens at KU Leuven
 
 
