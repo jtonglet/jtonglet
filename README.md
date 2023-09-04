@@ -13,7 +13,7 @@ My research interests include :
             
 # My journey 
 - 🤖 In 2022-2023, I pursuied an advanced Master's degree in Artificial Intelligence at KULeuven
-- 💹 I wrote a thesis on in-context learning for [HybridQA](https://github.com/jtonglet/Numerical-Hybrid-QA-Literature)
+- 💹 I wrote a thesis on in-context learning for HybridQA
 - 🎓 I graduated Summa Cum Laude with the Congratulations of the Board of Examiners in June 2023 with an average of 89.92%
 - 👨‍🔬 In September 2023, I will join the ELLIS PhD program under the supervision of Prof. Iryna Gurevych at TU Darmstadt and Prof. Sien Moens at KU Leuven
 
