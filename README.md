@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I am studying Artificial Intelligence at KULeuven, with a specialization in Speech and Language Technologies. In September 2023, I will start a PhD at TU Darmstadt and KU Leuven on Multimodal Fact Checking.
+I am an ELLIS PhD student at TU Darmstadt and KU Leuven working on Multimodal Fact Checking.
 
 My research interests include : 
 
